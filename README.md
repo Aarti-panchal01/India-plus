@@ -104,26 +104,16 @@ Visualization Layer
 
 ---
 
-## 🧩 How to Run Locally
-
-# Clone repository
-git clone https://github.com/<your-username>/india-pulse.git
-
-# Navigate to folder
-cd india-pulse
-
-# Install dependencies
-npm install
-
-# Run locally
-npm run dev
-Then open http://localhost:5173
-
 🧭 Future Scope
 Integration with DigiLocker for document-based datasets
+
 Multi-lingual dataset summaries with Indic NLP
+
 Mobile app version for local entrepreneurs
+
 Voice-based queries using India’s regional languages
+
+
 
 👩‍💻 Team
 Project Lead: Aarti Panchal
