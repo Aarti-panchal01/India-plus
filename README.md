@@ -39,7 +39,8 @@ A nationwide innovation challenge to build impactful solutions for India’s **N
 ---
 
 <p align="center">
-  <img src="https://github.com/Aarti-panchal01/India-plus/assets/demo-screenshot.png" width="80%" alt="India Pulse Dashboard Screenshot"/>
+  <img src="<img width="1878" height="1038" alt="Screenshot 2025-10-26 105248" src="https://github.com/user-attachments/assets/5cbd5b0c-b750-444b-aff7-443662947935" />
+" width="80%" alt="India Pulse Dashboard Screenshot"/>
 </p>
 
 ---
