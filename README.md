@@ -1,4 +1,4 @@
-<h1 align="center">🇮🇳✨ India Pulse — Data Intelligence for the Next Billion ✨</h1>
+<h1 align="center">🇮🇳✨India Pulse — Data Intelligence for the Next Billion✨</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Build-for_Billion_Hackathon-orange?style=for-the-badge"/>
@@ -35,13 +35,6 @@ A nationwide innovation challenge to build impactful solutions for India’s **N
 ✅ Empowers users to **compare states, districts, and cities** instantly.  
 ✅ Promotes **data transparency, civic participation, and informed decision-making**.  
 ✅ Supports **multilingual queries** using Base44 + India Stack integrations.  
-
----
-
-<p align="center">
-  <img src="<img width="1878" height="1038" alt="Screenshot 2025-10-26 105248" src="https://github.com/user-attachments/assets/5cbd5b0c-b750-444b-aff7-443662947935" />
-" width="80%" alt="India Pulse Dashboard Screenshot"/>
-</p>
 
 ---
 
