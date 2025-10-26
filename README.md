@@ -1,9 +1,52 @@
-# 🇮🇳 India Pulse — Data Intelligence for the Next Billion
+<h1 align="center">🇮🇳✨ India Pulse — Data Intelligence for the Next Billion ✨</h1>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Build-for_Billion_Hackathon-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Powered_by-India_Stack_&_Base44-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI-Data_Visualization-success?style=for-the-badge"/>
+</p>
 
-**India Pulse** is a visual, AI-powered dashboard that transforms open datasets and India Stack APIs into insights for citizens, policymakers, and innovators.
+---
 
-Built during **Build for Billion Hackathon**, it enables anyone — from rural entrepreneurs to urban planners — to **ask natural-language questions** about India and instantly get **interactive maps, charts, and visual stories**.
+> 💬 **India Pulse** is an AI-powered, visual dashboard that brings India’s public data to life.  
+> It empowers citizens, policymakers, and innovators to explore, compare, and understand India through **data, maps, and stories.**
+
+---
+
+## 🧠 What is *India Pulse*?
+
+🔹 A **data intelligence web app** that converts open datasets and India Stack APIs into powerful visual insights.  
+🔹 Designed for **everyone** — from rural entrepreneurs to urban planners.  
+🔹 Uses **AI + Natural Language Processing (NLP)** to answer questions about India in *any* language.  
+🔹 Displays results as **interactive maps, charts, and dynamic visual stories** — powered by Base44’s visualization SDK.
+
+---
+
+## 💡 Built During
+
+🏆 **Build for Billion Hackathon** —  
+A nationwide innovation challenge to build impactful solutions for India’s **Next Billion Users**.
+
+---
+
+## 🚀 Why *India Pulse*?
+
+✅ Makes **public data accessible** and **easy to understand** — no coding or data science required.  
+✅ Empowers users to **compare states, districts, and cities** instantly.  
+✅ Promotes **data transparency, civic participation, and informed decision-making**.  
+✅ Supports **multilingual queries** using Base44 + India Stack integrations.  
+
+---
+
+<p align="center">
+  <img src="https://github.com/Aarti-panchal01/India-plus/assets/demo-screenshot.png" width="80%" alt="India Pulse Dashboard Screenshot"/>
+</p>
+
+---
+
+> 🪄 *“Data for everyone, insights for billions.”*  
+> 🌏 Built with ❤️ for India.
+
 
 🔗 **Live App:** [india-pulse.vercel.app](https://india-pulse.vercel.app)  
 💻 **Built With:** React + Vite + Tailwind + AI APIs + India Stack  
