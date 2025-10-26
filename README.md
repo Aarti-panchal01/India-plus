@@ -1,5 +1,6 @@
 # 🇮🇳 India Pulse — Data Intelligence for the Next Billion
 
+
 **India Pulse** is a visual, AI-powered dashboard that transforms open datasets and India Stack APIs into insights for citizens, policymakers, and innovators.
 
 Built during **Build for Billion Hackathon**, it enables anyone — from rural entrepreneurs to urban planners — to **ask natural-language questions** about India and instantly get **interactive maps, charts, and visual stories**.
@@ -125,4 +126,4 @@ Mentors & Sponsors: NITK & IndiaStack.Online, eSamudaay, LatLong, Knobly Media
 Empowering India’s next billion users with accessible data intelligence — because data should speak the language of every Indian.
 
 🧾 License
-MIT License © 2025 [Your Name]
+MIT License © 2025 Aarti Panchal
