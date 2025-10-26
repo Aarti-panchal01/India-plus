@@ -1,8 +1,7 @@
-import { createClient } from '@base44/sdk';
-// import { getAccessToken } from '@base44/sdk/utils/auth-utils';
+import { createClient } from '@base44/sdk'
 
-// Create a client with authentication required
+// Safe client for public app (no login required)
 export const base44 = createClient({
-  appId: "68fcc10f7e6383fe08f62887", 
-  requiresAuth: true // Ensure authentication is required for all operations
-});
+  appId: import.meta.env.VITE_BASE44_APP_ID || "68fcc10f7e6383fe08f62887",
+  requiresAuth: false, // ❌ Disable auth for public dashboard
+})
